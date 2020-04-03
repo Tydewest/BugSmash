@@ -1,8 +1,8 @@
 <?php
 
-$hostname = "<YourServerAddress>";
-$username = "<YourUsername";
-$password = "<YourPassword>?";
+$hostname = "localhost";
+$username = "BugSmash";
+$password = "<YOUR_PASSWORD_GOES_HERE>";
 $database = "BugReporter";
 
 $connection = mysqli_connect($hostname, $username, $password, $database);
