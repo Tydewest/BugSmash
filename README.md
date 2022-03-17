@@ -1,4 +1,4 @@
-# BugSmash :space_invader:
+# :paw_prints: BugSmash :space_invader:
 
 ### Overview & About
  BugSmash Is An End User Friendly Bug Reporting Interface For Swift, BugSmash Is Easy To Use & Even Eaiser To Impliment. All   Data Entered Into BugSmash Is Saved Into A SQL Database For Easy Retrieval.
